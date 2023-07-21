@@ -5,6 +5,7 @@ $lname=$_POST['lname'];
 $password=$_POST['password'];
 
 $connection = mysqli_connect("localhost","root","","form");
+
 // var_dump($connection);
 // echo $connection;
 
